@@ -32,18 +32,18 @@ a Segunda Guerra Mundial.
 
 Quantos soldados a compania easy tinha inicialmente?
 
-![Evidência](evidencias/pergunta-01.png)
+![Evidência](Evidencias/pergunta-01.png)
 
 ### Pergunta 02
 
 Como foi a participação da Easy Company na Bastogne?
 
-![Evidência](evidencias/pergunta-02.png)
+![Evidência](Evidencias/pergunta-02.png)
 
 ## Materiais gerados
 
-- [Mapa mental](materiais/mapa-mental.png)
-- [Slides](materiais/slides.pdf)
+- [Mapa mental](Materiais/mapa-mental.png)
+- [Slides](Materiais/slides.pdf)
 
 ## Fontes utilizadas
 
@@ -216,7 +216,7 @@ Link: https://www.reddit.com/r/AskHistorians/comments/3kytaf/stephen_ambrosehow_
 Os prints abaixo demonstram que o notebook utiliza
 as fontes selecionadas para formular suas respostas.
 
-![Notebook](evidencias/notebook.png)
+![Notebook](Evidencias/notebook.png)
 
 ## Notebook
 
